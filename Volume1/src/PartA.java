@@ -1,7 +1,15 @@
+/*
+ * Ali Cole
+ * SW Design with Java
+ * HW 03;
+ */
+
+
 import java.util.Scanner;
 
+// This program calculates and displays volumes of soda
 public class PartA {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception { //this is the entry point into our program.
         int cansPerPack = 6; 
             /* 
             * variable of type int. 
